@@ -1,0 +1,127 @@
+
+
+.con{
+    height: 60px;
+    max-width: 100%;
+    
+
+}
+.row{
+    padding: 15px;
+    
+    
+}
+li{
+    list-style-type: none;
+    
+}
+ .col-3 a {
+   color: black;
+  
+}
+
+.nav-item  a{
+   color: black;
+}
+.logreg {
+ display: inline;
+ 
+}
+.logreg a{
+    color: rgb(9, 147, 189);
+}
+.image{
+    margin-top: 0px;
+    height: 500px;
+    max-width: 100%;
+    background-image: url(../image/people.jpg );
+    background-size:100% ;
+    background-repeat:  no-repeat;
+   
+}
+
+ .find{
+    color: #fff;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 1px;
+}
+
+.col-8{
+    height: 60px;
+    background-color: #fff;
+    top: 10px;
+    left: 250px;
+    border-radius: 3px;
+}
+.col-8 li{
+    display: inline-block;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-left: 1px;
+    
+}
+.col-8 li a{
+    color: gray;
+}
+.improve{
+    text-align: center;
+    padding-top: 20px;
+    color: #fff;
+    font-weight: 100;
+}
+.reg{
+    text-align: center;
+    padding-top: 40px;
+}
+.he2{
+    padding-top: 100px;
+}
+.hw{
+    color: rgb(32, 120, 178);
+    
+}
+ li .read{
+    color: rgb(32, 120, 178);
+    line-height: 2.5;
+    text-decoration: none;
+}
+.he3{
+    margin: 50px 50px ;
+}
+.sbsg{
+    color: gray;
+}
+.he5{
+    text-align: center;
+}
+.he5 h2{
+    color: rgb(32, 120, 178);
+    line-height: 2;
+}
+.he6{
+    margin-top: 50px;
+    padding-left: 40px;
+}
+.he6 img{
+    padding-bottom: 20px;
+}
+.bord {
+    border: #fff solid 0.5px;
+    padding: 20px;
+    background-image: url(../image/green.png);
+    
+    
+}
+
+.bord p {
+    text-align: justify;
+}
+.he7 .bord img{
+    padding-top: px;
+}
+.he7 .bord img{
+border: green solid 0.1px;
+border-radius: 50%;
+}
+
